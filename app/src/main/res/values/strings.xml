@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mage</string>
+    <string name="conferir">Preencha todos os campos.</string>
+    <string name="conta">Para DI, F, H, P e S utilize 3 números depois da vírgula\nEx: 123,000.</string>
+    <string name="calcular">Digite os valores do diâmetro externo (DE) e o número de dentes (Z) para calcular as medidas de uma engrenagem.</string>
+    <string name="exercicio">Calcule as medidas para achar as "?".</string>
+    <string name="dia">Para DE e Z utilize números inteiros (sem vírgula).</string>
+    <string name="dia_ex">Para DP, DE, C, Z e M utilize números inteiros (sem vírgula).</string>
+</resources>
